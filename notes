@@ -1,0 +1,13 @@
+main config
+-------------
+
+backend_config:
+    port: <int>
+
+haproxy_config:
+    config_file: <string>
+    binary: <string>
+
+backend_pool:
+    type: aws
+
